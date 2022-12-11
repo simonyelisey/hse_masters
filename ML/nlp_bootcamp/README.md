@@ -4,7 +4,7 @@ The assessment of the bank by the text feedback of the client predicting [compet
 
 ## Main steps
 
-1. Lemmatization of text data; 
+1. Lemmatization of text data *(taken from the baseline)*; 
 2. Creating date-based features;
 3. Creating number of words and length of feedback features; 
 4. Text data encoding:
